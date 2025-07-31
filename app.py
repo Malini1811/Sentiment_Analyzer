@@ -24,7 +24,7 @@ if st.button("Analyze Sentiment"):
         ax.set_title("Paragraph-Level Sentiment")
         st.pyplot(fig)
 
-        # Word-Level Sentiment
+        
         st.subheader("Word-Level Sentiment Analysis")
         word_result = analyze_words_sentiment_multilingual(user_input)
         st.success(f"😊 Positive Words: {', '.join(word_result['Positive']) or 'None'}")
