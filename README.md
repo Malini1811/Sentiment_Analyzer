@@ -13,16 +13,6 @@ multilingual-sentiment-analyzer/
 └── README.md                 # Project documentation
 ```
 
-##  Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/<your-username>/multilingual-sentiment-analyzer.git
-   cd multilingual-sentiment-analyzer
-   ```
-
-
 ##  How to Run the App
 
 ```bash
